@@ -28,6 +28,7 @@
                     "Gas",
                     "Cogen",
                     "Boiler",
+		    "Heating",
                     "Domestic Hot Water",
                     "Electricity",
                     "AHU",
