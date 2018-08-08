@@ -59,18 +59,8 @@
                     "Envelope Heat Loss",
                     "Chiller",
                     "Cooling Tower",
-                    "Atmosphere",
-                    "Oil",
-                    "Oil reserves",
-                    "Other waste",
-                    "Pumped heat",
-                    "Solar PV",
-                    "Solar Thermal",
-                    "Solar",
-                    "Tidal",
-                    "UK land based bioenergy",
-                    "Wave",
-                    "Wind"
+                    "Atmosphere"
+                  
                 ],
                 "color": [
                     "rgba(31, 119, 180, 0.8)",
