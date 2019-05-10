@@ -17,7 +17,7 @@ from dash.dependencies import Output, Input, State
 #     energy_data = json.loads(response.read())
  # moved inside function
 
-
+# Old town road
 #Employing dash to create a flask app. 
 app = dash.Dash(__name__)
 server = app.server
